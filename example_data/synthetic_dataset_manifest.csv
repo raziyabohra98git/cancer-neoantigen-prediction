@@ -1,0 +1,4 @@
+dataset,description
+synthetic_candidates.csv,Synthetic candidate metadata and 8-11 aa peptide windows.
+synthetic_mutant_predictions.csv,Synthetic MHC-I mutant binding predictions; not real MHCflurry output.
+synthetic_wt_predictions.csv,Synthetic WT binding predictions keyed by WT peptide and HLA allele.
